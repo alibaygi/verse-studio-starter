@@ -1,0 +1,39 @@
+# Media
+*.mp4
+*.mov
+*.m4v
+*.mkv
+*.webm
+*.avi
+*.mp3
+*.wav
+*.m4a
+*.aac
+*.flac
+*.ogg
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.heic
+*.psd
+*.svg
+
+# Fonts
+*.ttf
+*.otf
+*.woff
+*.woff2
+
+# Tooling
+node_modules/
+.hyperframes/
+.DS_Store
+
+# Studio folders
+footage/
+press/
+sources/
+inkwell/
+plates/
